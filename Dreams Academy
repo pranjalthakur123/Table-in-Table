@@ -1,0 +1,71 @@
+<html>
+<head>
+<title> Dark Web </title>
+
+</head>
+<body>
+<marquee behavior="scroll" direction="right" loop="3" bgcolor="lightgreen" textcolor="red"><h1> Dreams To Academy </h1></marquee>
+<h3 align="right"> <a href=""><u>Link To Dreams......</u></a></h3>
+<image src="pkd.png" width="100%" height="30%">
+<fieldset>
+<legend><big><i> Paragraph <i></big></legend>
+<p><mark>On the Insert tab,</mark><sub><big> CO</big></sub><sup> 2</sup> <mark>designed to coordinate</mark> <br>
+<b>with the overall look of your document.</b><i> You can use these galleries to insert tables, headers, footers, lists, cover pages, <i><br>
+<strike>and other document building blocks. When you create pictures, charts, or diagrams, </strike><br>
+<mark>they also coordinate with your current document look </mark></p></fieldset>
+<form align="center">
+<h1 align="Center"> Cource Name/Details </h1>
+                                <select >
+                                         <option> Dreams Cources</option>
+                                         <option>MCA</option>
+                                          <option>IT</option>
+                                          <option>DCA</option>
+                                          <option>PGDCA</option>
+
+                                 </select>
+</form>
+<fieldset><font face="copper" size="15px" color="blue" ><p align="center"12:26 07-01-2023>On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers</p></font></fieldset><br><br>
+
+
+
+<fieldset width="50%">
+<form width="50%" bgcolor="blue">
+Name:<input type="text"><br><br>
+Age:<input type="number"><br><br>
+D.O.B:<input type="datetimelocal"><br><br>
+E-mail:<input type ="email" placeholder="Enter your name"><br><br>
+Password:<input type="password"><br><br>
+Mobile Number:<input type="textbox" size="1"><input type="textbox" size="1"><input type="textbox" size="1"><input type="textbox" size="1"><input type="textbox" size="1"><input type="textbox" size="1"><input type="textbox" size="1"><input type="textbox" size="1"><input type="textbox" size="1"><input type="textbox" size="1"><br>
+<input type="submit" value="Submit">
+<input type="reset">
+</form>
+</fieldset>
+<table bgcolor="yellow"  border="2px"  width="80%" height="50%">
+<caption> Table Data</caption>
+                                     <tr align="center"bgcolor="green">
+                                   <th>S.No.</th>
+                                   <th>Teacher</th>
+                                   <th>Period</th>
+                                   <th>Fee</th>
+                                   <th>Subject</th>
+                                     </tr>
+                                     <tr align="center">
+                                   <td>1.</td>
+                                   <td>Lucky Sir</td>
+                                   <td>First</td>
+                                   <td>10,000</td>
+                                   <td>Python</td>
+                                     </tr>
+                                    <tr align="center" bgcolor="blue">
+                                    <td colspan="5"><center><h3><b>Break</b></h3></center></td>
+                                    </tr>
+                                   <tr align="center">
+                                    <td>2</td>
+                                  <td>Sunny Sir</td>
+                                    <td colspan="3"></td>
+                                   </tr>
+</table>
+<center><big>Output<meter min="0" max="100" value="83"></meter></big></center>
+
+</body>
+</html>
